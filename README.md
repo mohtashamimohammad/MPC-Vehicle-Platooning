@@ -81,8 +81,6 @@ Evaluation of disturbance propagation through the platoon to analyze string stab
 
 ## Results
 
-## Results
-
 ### Vehicle Tracking
 
 <img src="results/Figure_3.png">
@@ -94,6 +92,7 @@ Evaluation of disturbance propagation through the platoon to analyze string stab
 ### String Stability
 
 <img src="results/Figure_7.png">
+
 ## How to Run
 
 ### Requirements
@@ -147,10 +146,3 @@ This project is based on the following paper:
 J. M. Kennedy, J. Heinovski, D. E. Quevedo, and F. Dressler,
 "Centralized Model-Predictive Control with Human-Driver Interaction for Platooning,"
 IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022.
----
-
-## Purpose
-
-This repository is created for research and educational purposes, focusing on the implementation and analysis of Model Predictive Control for autonomous vehicle platooning.
-
-The goal is to provide a reproducible MATLAB implementation of the proposed control approach and its simulation results.
